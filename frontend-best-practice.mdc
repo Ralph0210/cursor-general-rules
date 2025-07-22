@@ -1,0 +1,19 @@
+---
+globs: *.js,*.jsx,*.ts,*.tsx
+description: Frontend development best practices for code quality, performance, and maintainability.
+alwaysApply: true
+---
+
+# Frontend Development Best Practices
+
+- Use semantic HTML and accessible ARIA attributes.
+- Write modular, reusable components.
+- Optimize images and assets (modern formats, lazy loading).
+- Minimize bundle size (code splitting, tree shaking).
+- Prevent unnecessary re-renders; use memoization where appropriate.
+- Monitor and improve Core Web Vitals.
+- Write unit, integration, and end-to-end tests.
+- Use version control (Git) with clear commit messages and PR reviews.
+- Choose appropriate state management (Context API, Redux, Zustand, etc.).
+- Handle API errors, loading states, and caching.
+- Prevent XSS/CSRF, sanitize inputs, and use CSP headers.

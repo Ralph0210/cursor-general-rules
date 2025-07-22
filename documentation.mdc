@@ -1,0 +1,13 @@
+---
+globs: *.js,*.jsx,*.ts,*.tsx,*.md
+description: Documentation guidelines for code and user-facing docs.
+alwaysApply: true
+---
+
+# Documentation
+
+- Document all public functions, components, and modules.
+- Use JSDoc or TypeScript for type annotations.
+- Keep README files up to date.
+- Provide usage examples for complex components.
+- Document API contracts and expected data shapes.

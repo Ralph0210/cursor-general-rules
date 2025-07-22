@@ -1,0 +1,16 @@
+---
+globs: *.js,*.jsx,*.ts,*.tsx,*.css,*.scss
+description: UI/UX design best practices for user-centered, consistent, and responsive interfaces.
+alwaysApply: true
+---
+
+# UI/UX Design Best Practices
+
+- Start with user research and personas.
+- Map user journeys and pain points.
+- Use a design system or component library for consistency.
+- Maintain consistent spacing, typography, and color usage.
+- Design mobile-first and test across devices/browsers.
+- Use visual hierarchy (size, color, spacing) to guide attention.
+- Provide immediate feedback for user actions (loading, errors, success).
+- Make interactive elements visually distinct.

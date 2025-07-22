@@ -1,0 +1,12 @@
+---
+globs: *.js,*.jsx,*.ts,*.tsx
+description: State management best practices.
+alwaysApply: true
+---
+
+# State Management
+
+- Use local state for UI-specific data, global state for shared data.
+- Choose appropriate state management tools (Context API, Redux, Zustand, etc.).
+- Avoid prop drilling by using context or state libraries.
+- Keep state minimal and predictable.

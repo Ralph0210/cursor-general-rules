@@ -1,0 +1,13 @@
+---
+globs: *.js,*.jsx,*.ts,*.tsx,*.css,*.scss
+description: Performance optimization guidelines for frontend code.
+alwaysApply: true
+---
+
+# Performance Optimization
+
+- Optimize images and use modern formats (WebP, AVIF).
+- Implement lazy loading for images and components.
+- Minimize bundle size with code splitting and tree shaking.
+- Avoid unnecessary re-renders and use memoization.
+- Monitor and improve Core Web Vitals.

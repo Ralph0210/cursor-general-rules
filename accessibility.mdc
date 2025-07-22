@@ -1,0 +1,18 @@
+---
+globs: *.js,*.jsx,*.ts,*.tsx,*.css,*.scss,*.html
+description: Accessibility guidelines for inclusive and usable interfaces.
+alwaysApply: true
+---
+
+# Accessibility (a11y) Guidelines
+
+- Use semantic HTML elements for structure and meaning.
+- Ensure all interactive elements are keyboard accessible.
+- Provide visible focus indicators for keyboard navigation.
+- Use ARIA labels and roles only when necessary.
+- Ensure sufficient color contrast (WCAG AA/AAA).
+- Provide meaningful alt text for images.
+- Caption videos and transcribe audio content.
+- Label all form fields clearly.
+- Clearly indicate errors and how to fix them.
+- Use ARIA live regions for dynamic content updates.

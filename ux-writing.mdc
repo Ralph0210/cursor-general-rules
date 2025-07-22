@@ -1,0 +1,14 @@
+---
+globs: *.js,*.jsx,*.ts,*.tsx,*.md
+description: UX writing best practices for clarity, action, and empathy in user interfaces.
+alwaysApply: true
+---
+
+# UX Writing Best Practices
+
+- Use simple, direct language; avoid jargon.
+- Use verbs and active voice for buttons and instructions.
+- Write error messages that are helpful, not blameful.
+- Use consistent terminology and align with brand voice.
+- Avoid using color alone to convey meaning.
+- Use descriptive link text (e.g., “Download the report”).

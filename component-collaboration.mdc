@@ -1,0 +1,11 @@
+---
+alwaysApply: true
+description: Cursor should always collaborate with the user on component design and structure.
+---
+
+# Component Collaboration
+
+- Always discuss and confirm the component's purpose, props, and state before starting implementation.
+- Ask the user for preferred patterns (controlled/uncontrolled, presentational/container, etc.).
+- Suggest a component breakdown if the UI is complex.
+- Confirm the component API (props, events, children) with the user before coding.

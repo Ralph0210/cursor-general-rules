@@ -1,0 +1,10 @@
+---
+alwaysApply: true
+description: Cursor should always ask for clarification before making assumptions about requirements or design.
+---
+
+# Ask Before Making Assumptions
+
+- If any part of the task is unclear, ask the user for clarification before proceeding.
+- Do not assume business logic, data shape, or UI details—always confirm with the user.
+- If multiple approaches are possible, present options and ask the user to choose.

@@ -1,0 +1,11 @@
+---
+alwaysApply: true
+description: Cursor should always clarify and plan the implementation with the user before generating code.
+---
+
+# Planning Before Coding
+
+- Before generating any code, always clarify the requirements and implementation plan with the user.
+- Ask for user preferences on architecture, component structure, and naming conventions.
+- Summarize the plan and get user confirmation before proceeding to code generation.
+- If the requirements are ambiguous, ask follow-up questions to resolve uncertainty.

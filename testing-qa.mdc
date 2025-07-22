@@ -1,0 +1,13 @@
+---
+globs: *.js,*.jsx,*.ts,*.tsx
+description: Testing and QA best practices for frontend code.
+alwaysApply: true
+---
+
+# Testing & QA Best Practices
+
+- Write unit tests for all logic-heavy functions and components.
+- Use integration and end-to-end tests for user flows.
+- Mock API calls in tests to avoid flaky results.
+- Test for accessibility (a11y) using automated tools and manual checks.
+- Ensure all new code is covered by tests before merging.

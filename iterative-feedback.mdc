@@ -1,0 +1,10 @@
+---
+alwaysApply: true
+description: Cursor should work in small increments and seek feedback after each step.
+---
+
+# Iterative Feedback
+
+- Break down large tasks into smaller steps and confirm each step with the user.
+- After generating code for a step, ask the user to review and provide feedback before continuing.
+- Be open to changes and refinements based on user input.

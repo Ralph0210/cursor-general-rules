@@ -5,7 +5,7 @@ Here’s a simple README you can use for your `.cursor/rules` repository:
 
 # Cursor Rules
 
-This directory contains a collection of **Cursor Rules** to help maintain high standards for frontend development, UI/UX design, accessibility, UX writing, and team collaboration in this project.
+This directory contains a collection of **Cursor Rules** to help maintain high standards for frontend development, UI/UX design, accessibility, UX writing, and team collaboration in this project. I found the ones regulating Cursor's behavior, e.g. ask-before-assumptions.mdc, makes Cursor asks more question to clarify my intent, which has made my development experience smoother. 
 
 ## 📁 How Cursor Rules Work
 
@@ -66,9 +66,7 @@ globs: *.js,*.jsx,*.ts,*.tsx,*.css,*.scss,*.html
 
 ## ✨ Why Use Cursor Rules?
 
-- **Consistency:** Ensures everyone follows the same standards.
-- **Quality:** Reduces bugs and improves maintainability.
-- **Collaboration:** Makes it easier for new team members and AI tools to understand your workflow.
+- Check out my blog post here: https://www.ralphchang.com/blog/how-to-code-with-cursor
 
 ---
 
